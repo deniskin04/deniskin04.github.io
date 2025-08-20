@@ -30,6 +30,8 @@ nav_order: 4
     padding: .7rem .9rem;
     border: 1px solid var(--color-border, #e5e7eb);
     border-radius: .5rem;
+    color: #000;
+    caret-color: #000;
     background: var(--color-bg, #fff);
   }
   .form-container button{ margin-top: .25rem; }
