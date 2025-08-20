@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Educator. Researcher. Data Engineer & Video Game Enthusiast
 
@@ -25,4 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Viacheslav "Slava" Deniskin, and I'm a PhD Candidate in Marketing at the University of Kansas, specializing in Consumer Behavior. Welcome to my website! Here you can find my CV, resume, and other relevant professional documents. You can also explore and learn more about me, my current projects, and my other interests.
+## About me:
+
+My name is Viacheslav "Slava" Deniskin, and I'm a PhD Candidate in Marketing at the University of Kansas, specializing in Consumer Behavior. Welcome to my website! 
+
+Here you can find my CV, resume, and other relevant professional documents. You can also explore and learn more about me, my current [projects](/deniskin04/projects), and my [other interests](/deniskin04/blog).
+
+If you have any questions, or just want to chat, use the [contact tab](/deniskin04/contact) to reach out.

@@ -9,6 +9,11 @@ nav_order: 4
 
 ## Send a message
 
+<style>
+  .form-container { max-width: 100% }
+  .form-container input { position: relative; top: 0; left: 0; width: 100%; height: 20px; padding: 0 ; }
+  .form-container textarea { position: relative; top: 0; left: 0; width: 100%; height: 80px; padding: 0; }
+</style>
 <form action="https://formspree.io/f/mvgqjddl" method="POST">
   <label for="name">Your name</label>
   <input id="name" name="name" type="text" required>
