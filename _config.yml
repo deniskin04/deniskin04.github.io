@@ -190,6 +190,7 @@ exclude:
   - _pages/dropdown.md
   - _plugins/external-posts.rb
   - _pages/publications.md
+  - _pages/projects.md
 keep_files:
   - CNAME
   - .nojekyll
