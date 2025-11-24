@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher. Educator. Data & Insights Expert
+subtitle: Researcher. Educator. Data & Insights Expert.
 
 profile:
   align: left
