@@ -44,11 +44,11 @@ nav_order: 4
   <label for="name">Your name</label>
   <input id="name" name="name" type="text" autocomplete="name" required>
 
-  <label for="email">Your email</label>
-  <input id="email" name="email" type="email" autocomplete="email" required>
+<label for="email">Your email</label>
+<input id="email" name="email" type="email" autocomplete="email" required>
 
-  <label for="message">Message</label>
-  <textarea id="message" name="message" rows="6" required></textarea>
+<label for="message">Message</label>
+<textarea id="message" name="message" rows="6" required></textarea>
 
   <!-- honeypot (spam trap) -->
   <input type="text" name="website" style="display:none" tabindex="-1" autocomplete="off">
@@ -57,5 +57,6 @@ nav_order: 4
   <input type="hidden" name="_subject" value="New message from your website">
   <!-- <input type="hidden" name="_redirect" value="{{ '/contact/thanks/' | absolute_url }}"> -->
 
-  <button type="submit" class="btn btn-primary">Send</button>
+<button type="submit" class="btn btn-primary">Send</button>
+
 </form>

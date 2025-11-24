@@ -57,7 +57,7 @@ email marketing, and social media campaigns.
 ### What students do in this course
 
 - **Group digital marketing project**  
-  Teams select a real company or competition brief and build an integrated digital marketing strategy, 
+  Teams select a real company or competition brief and build an integrated digital marketing strategy,
   presenting short progress updates throughout the semester and a final presentation.
 
 - **Short topic presentations**  
@@ -116,14 +116,14 @@ The course uses a mix of individual and team-based assessments to reward ongoing
 applied skills, and synthesis of concepts. A typical offering uses a 500-point scale, for example:
 
 | Component                                 | Points (out of 500) |
-|-------------------------------------------|----------------------|
-| Class participation & in-class activities | 100                  |
-| Group project – short presentations       | 100                  |
-| Quizzes                                   | 40                   |
-| Midterm exam                              | 100                  |
-| Final project presentation                | 100                  |
-| Case write-ups / discussions              | 50                   |
-| Certification / external assignment       | 10                   |
+| ----------------------------------------- | ------------------- |
+| Class participation & in-class activities | 100                 |
+| Group project – short presentations       | 100                 |
+| Quizzes                                   | 40                  |
+| Midterm exam                              | 100                 |
+| Final project presentation                | 100                 |
+| Case write-ups / discussions              | 50                  |
+| Certification / external assignment       | 10                  |
 
 Extra credit opportunities may be available through additional certifications or participation
 in digital marketing competitions.

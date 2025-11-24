@@ -91,21 +91,9 @@
     }
   ],
   "skills": {
-    "research": [
-      "Quantitative methods",
-      "Experiment design",
-      "Unstructured data analysis"
-    ],
-    "programming_languages": [
-      "R",
-      "Python",
-      "SPSS Syntax"
-    ],
-    "software": [
-      "Microsoft Excel",
-      "Tableau",
-      "Qualtrics XM"
-    ],
+    "research": ["Quantitative methods", "Experiment design", "Unstructured data analysis"],
+    "programming_languages": ["R", "Python", "SPSS Syntax"],
+    "software": ["Microsoft Excel", "Tableau", "Qualtrics XM"],
     "languages": [
       {
         "language": "English",
