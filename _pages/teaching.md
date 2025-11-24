@@ -45,9 +45,8 @@ email marketing, and social media campaigns.
     <h3 class="mt-1">Course snapshot</h3>
     <ul>
       <li><strong>Format:</strong> In-person · Lecture, discussion, and hands-on lab activities.</li>
-      <li><strong>Meeting pattern (Spring 2025):</strong> Tue/Thu · 1:00–2:15 pm · CAPF 1120.</li>
       <li><strong>Typical work:</strong> Group digital marketing project, short presentations, quizzes, case write-ups, and a final presentation.</li>
-      <li><strong>Tools:</strong> Google Analytics, keyword planners, web analytics dashboards, and social media examples.</li>
+      <li><strong>Tools:</strong> Google Analytics, keyword planners, web analytics dashboards, Canva A/B testing display ad design, generative AI prompt generation.</li>
     </ul>
   </div>
 </div>
