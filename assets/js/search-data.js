@@ -16,9 +16,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Example Syllabi for Digital Marketing",
+          description: "Digital Marketing and Social Media Course",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
