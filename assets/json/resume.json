@@ -104,29 +104,17 @@
     {
       "name": "Research",
       "level": "Advanced",
-      "keywords": [
-        "Quantitative methods",
-        "Experiment design",
-        "Unstructured data analysis"
-      ]
+      "keywords": ["Quantitative methods", "Experiment design", "Unstructured data analysis"]
     },
     {
       "name": "Programming Languages",
       "level": "Advanced",
-      "keywords": [
-        "R",
-        "Python",
-        "SPSS Syntax"
-      ]
+      "keywords": ["R", "Python", "SPSS Syntax"]
     },
     {
       "name": "Software",
       "level": "Advanced",
-      "keywords": [
-        "Microsoft Excel",
-        "Tableau",
-        "Qualtrics XM"
-      ]
+      "keywords": ["Microsoft Excel", "Tableau", "Qualtrics XM"]
     }
   ],
   "languages": [
