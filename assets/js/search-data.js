@@ -9,7 +9,21 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-teaching",
+  },{id: "nav-research",
+          title: "Research",
+          description: "My academic research on consumer behavior, brand activism, and CSR.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-data-analytics",
+          title: "Data Analytics",
+          description: "Data analysis projects, dashboards, and quantitative work.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/data-analytics/";
+          },
+        },{id: "nav-teaching",
           title: "Teaching",
           description: "Digital Marketing and Social Media Course",
           section: "Navigation",
@@ -51,6 +65,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-data-analytics-project",
+          title: 'Data Analytics Project',
+          description: "Placeholder — add your data analysis projects here.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-email',
         title: 'email',
