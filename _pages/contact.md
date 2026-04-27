@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 description: Use the form below to contact me.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 ## Send a message
