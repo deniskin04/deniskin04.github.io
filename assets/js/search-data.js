@@ -62,12 +62,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-asking-vs-saying-yes",
           title: 'Asking vs. Saying Yes',
-          description: "End-to-end mixed-methods study for Habitat for Humanity to diagnose why peer-to-peer volunteer recruitment stalled — and fix it.",
+          description: "End-to-end mixed-methods study for Habitat for Humanity to figure out why peer-to-peer volunteer recruitment stalled, and how to fix it.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-author-analytics-dashboard",
           title: 'Author Analytics Dashboard',
-          description: "Freelance UX research and data product for self-published authors on LitNet.ru — turning fragmented performance data into actionable decisions.",
+          description: "Freelance UX research and data product for self-published authors on LitNet.ru — turning fragmented performance data into decisions authors can actually act on.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
