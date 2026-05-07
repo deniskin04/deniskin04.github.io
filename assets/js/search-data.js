@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "My academic research on consumer behavior, brand activism, and CSR.",
+          description: "Selected research projects spanning user interviews, survey experiments, and data products.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
@@ -60,14 +60,14 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-asking-vs-saying-yes",
+          title: 'Asking vs. Saying Yes',
+          description: "End-to-end mixed-methods study for Habitat for Humanity to diagnose why peer-to-peer volunteer recruitment stalled — and fix it.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-data-analytics-project",
-          title: 'Data Analytics Project',
-          description: "Placeholder — add your data analysis projects here.",
+            },},{id: "projects-author-analytics-dashboard",
+          title: 'Author Analytics Dashboard',
+          description: "Freelance UX research and data product for self-published authors on LitNet.ru — turning fragmented performance data into actionable decisions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
