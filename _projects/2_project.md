@@ -2,7 +2,7 @@
 layout: page
 title: Author Analytics Dashboard
 description: Freelance UX research and data product for self-published authors on LitNet.ru — turning fragmented performance data into decisions authors can actually act on.
-img: assets/img/litnet_mainview.png
+img:
 importance: 2
 category: research
 ---
@@ -71,4 +71,8 @@ Author-reported outcomes from the dashboard:
 
 ## Key Takeaway
 
-The most useful signal — comment sentiment — was already sitting in the data, just never aggregated. The research here was mostly about listening carefully to what decisions authors were actually trying to make, then building backward from that.
+<p class="lead">
+The interviews made clear that the core problem wasn't just a lack of tools. Authors had data available to them but no way to make sense of it, and no clear picture of what success even looked like for them. The priority that emerged was insight generation before anything else: before authors could optimize their work, they needed to understand what was actually driving engagement.
+
+Building the dashboard gave them that. Once they could see comment trends, publication timelines, and engagement patterns in one place, a clearer question surfaced: how much time should be spent creating new content versus improving the reach of what already exists? The dashboard made that tradeoff visible. Authors shifted toward spending less time producing new content and more time on marketing and promotion for books that were already performing. That reallocation of effort, driven by the data, is where the real impact came from.
+</p>

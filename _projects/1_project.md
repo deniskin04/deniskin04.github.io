@@ -2,7 +2,7 @@
 layout: page
 title: Asking vs. Saying Yes
 description: End-to-end mixed-methods study for Habitat for Humanity to figure out why peer-to-peer volunteer recruitment stalled, and how to fix it.
-img: assets/img/Main_Effect_HfH.png
+img:
 importance: 1
 category: research
 ---
@@ -81,4 +81,8 @@ Ad templates built on relationship-focused framing were statistically more likel
 
 ## Key Takeaway
 
-The barrier to volunteer recruitment wasn't apathy — it was a misprediction gap. Askers assumed the cause had to do the work; in reality, the relationship did. Fixing the message framing, not the awareness, was what moved behavior.
+<p class="lead">
+This project was about owning the full research cycle. It started with generative research and interviews to understand what was actually going on, moved into survey work to quantify the patterns, and then located a specific psychological mechanism through controlled experiments and mediation analysis.
+
+What made it useful for the client wasn't just the 58% lift in click-through rate. It was that the finding generalizes. Once you understand that the barrier is a misprediction about how others feel (not a lack of caring about the cause), you have a principle that shapes future campaigns, not just the next one. The recommendation was to systematically reframe peer-to-peer messaging around relationships rather than the cause, and to prioritize existing volunteers as the messengers. That's something Habitat for Humanity could carry forward and apply well beyond this study.
+</p>
