@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: My academic research on consumer behavior, brand activism, and CSR.
+description: Selected research projects spanning user interviews, survey experiments, and data products.
 nav: true
 nav_order: 2
 display_categories: [research]

@@ -1,81 +1,68 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Asking vs. Saying Yes
+description: End-to-end mixed-methods study for Habitat for Humanity to diagnose why peer-to-peer volunteer recruitment stalled — and fix it.
+img:
 importance: 1
 category: research
-related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Client:** Habitat for Humanity, Lawrence, KS  
+**Role:** Lead researcher (end-to-end)  
+**Methods:** Semi-structured interviews · Survey experiment (N = 151) · Online A/B experiment (N = 200) · Text analysis · Mediation analysis
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+---
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## The Problem
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Habitat for Humanity's local chapter had healthy donation numbers but a persistent plateau in new volunteer sign-ups. Their peer-to-peer social media campaigns weren't converting. Leadership knew people *said* they cared — the attitude was there. The behavior wasn't.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+This was a **conversion problem, not an awareness problem.**
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+The research question: why do people who care about a cause hesitate to invite others, and what messaging design changes can close that gap?
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+---
 
-{% raw %}
+## Research Process
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+### Phase 1 — Exploratory Interviews
 
-{% endraw %}
+Two rounds of semi-structured interviews with four leadership team members and seven executive-level donors surfaced a consistent pattern: friction and uncertainty around *asking others*.
+
+> *"It's something very important to me, but I don't know if others care as much as I do."* — Executive donor
+
+> *"People show up to fundraisers and auctions, but we struggle expanding the network."* — HfH Director
+
+This pointed toward a psychological mechanism: **social misprediction** — askers underestimate how willing others are to say yes.
+
+### Phase 2 — Survey Research
+
+Surveyed 151 local adults (convenience sample). Primary focus: an "Invite Likelihood" measure and open-ended responses about volunteering motivations. Demographic metrics were used to validate and segment respondents.
+
+Text analysis of open-ended responses revealed that volunteers and non-volunteers described volunteering in meaningfully different language — volunteers emphasized community connection and relationships; non-volunteers centered on organizational mission.
+
+### Phase 3 — Experiment Design & Mediation Analysis
+
+Online experiment (N = 200, sample size determined by power analysis and pretests) tested whether messaging framed around **relationship norms** ("volunteer with your friends") outperformed messaging framed around the **cause** ("support families in need").
+
+Mediation analysis confirmed the mechanism: being in the "responder" role (vs. the "asker" role) significantly increased relationship focus, which in turn drove higher volunteer likelihood. Cause focus did not mediate the effect.
+
+The experimental result: **relationship-focused ad copy produced higher share and sign-up likelihood.**
+
+---
+
+## Insights & Recommendations
+
+Findings were translated directly into stakeholder-facing recommendations:
+
+- **Reduce the "asking cost"** — reframe invitations as a social gesture, not a mission pitch
+- **Highlight relationship norms** ("friends help friends") rather than leading with the cause alone
+- **Prioritize existing volunteers** for peer-to-peer outreach; they are more likely to respond to the ask
+
+Ad templates built on relationship-focused framing were statistically more likely to be shared. A live meta ad-campaign for the organization using these templates **improved click-through rate by 58%**.
+
+---
+
+## Key Takeaway
+
+The barrier to volunteer recruitment wasn't apathy — it was a misprediction gap. Askers assumed the cause had to do the work; in reality, the relationship did. Fixing the message framing, not the awareness, was what moved behavior.
