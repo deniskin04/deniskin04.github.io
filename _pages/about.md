@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher. Educator. Data & Insights Expert.
+subtitle: Consumer Behavior Researcher. Educator. Data & Insights Expert.
 
 profile:
   align: left
@@ -26,6 +26,6 @@ latest_posts:
 
 ## About me:
 
-My name is Viacheslav "Slava" Deniskin, and I'm a PhD Candidate in Marketing at the University of Kansas, specializing in Consumer Behavior. I am a mixed methods researcher, specializing in both experiment design and statistical models for my research. My research interests focus on consumer' emotional and behavioral responses to brand Corporate Social Responsibility and Brand Activism initiatives. Specifically, I study the intricacies of consumers' reactions to brands messaging, framing, and overall engagement with sociopolitical topics. Welcome to my website!
+My name is Viacheslav "Slava" Deniskin, PhD. I earned my doctorate in Marketing from the University of Kansas School of Business, specializing in Consumer Behavior. I am a mixed-methods researcher with expertise in experimental design, statistical modeling, unstructured data analysis, and translating behavioral evidence into clear strategic insight. My dissertation, _Two Essays on Brand Activism versus Corporate Social Responsibility_, examines how consumers respond to brand messaging, framing, and engagement with sociopolitical topics.
 
-Here you can find my [CV, resume](/_pages/cv.md), and other relevant professional documents. If you have any questions, or just want to chat, use the [contact tab](/contact) to reach out.
+Here you can find my [CV and resume](/cv/), research projects, and other relevant professional documents. If you have any questions, or just want to chat, use the [contact tab](/contact) to reach out.

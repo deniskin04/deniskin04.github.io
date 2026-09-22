@@ -2,96 +2,90 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Viacheslav "Slava" Deniskin
+    - name: Email
+      value: Viacheslav.Deniskin@ku.edu
     - name: Languages
-      value: English, German
+      value: English, Russian, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Marketing, Consumer Behavior Track
+      institution: University of Kansas, Lawrence, Kansas, US
+      year: 2021 - 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Dissertation: Two Essays on Brand Activism versus Corporate Social Responsibility"
+    - title: M.S. in Marketing
+      institution: The University of Texas at Dallas, Richardson, Texas, US
+      year: 2019 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 3.83/4.0"
+    - title: B.S. in Accounting & Finance
+      institution: University of Warwick, Warwick Business School, Coventry, UK
+      year: 2016 - 2019
+      description:
+        - "With Honours, Second Class: Upper Division"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research & Teaching Assistant
+      institution: University of Kansas School of Business, Lawrence, Kansas, US
+      year: 2021 - 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Designed and analyzed consumer behavior experiments in Qualtrics and R.
+        - Built reproducible data-cleaning, modeling, and visualization workflows.
+        - Taught undergraduate Digital Marketing and guest lectured on influencer marketing and integrated marketing communications.
+    - title: Teaching Assistant
+      institution: The University of Texas at Dallas, Naveen Jindal School of Management, Richardson, Texas, US
+      year: 2020 - 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Supported marketing coursework through instruction, grading, and student-facing course operations.
+    - title: Summer Intern
+      institution: Kraft Heinz UK, London, United Kingdom
+      year: 2018
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Designed an interactive Excel dashboard for weekly field-sales data.
+        - Implemented new KPIs and reusable loyalty-scheme templates.
+    - title: Intern
+      institution: John Deere, Moscow, Russia
+      year: 2017
+      description:
+        - Built early-career experience in business operations and stakeholder communication.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/deniskin04">GitHub projects</a>
+      year: ongoing
+      description: Research, analytics, and website projects.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Runner-up, I-COM Data Science Hackathon
+    - year: 2018
       items:
-        - Max Planck Medal
+        - Runner-up, Warwick University Hult Prize
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Consumer behavior
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Brand activism
+        - Corporate social responsibility
+        - Consumer responses to sociopolitical brand messaging
+    - title: Methods
       items:
-        - Description 1.
-        - Description 2.
+        - Experimental design
+        - Statistical modeling
+        - Topic modeling and unstructured data analysis
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Data visualization, marketing analytics, and applied research communication.

@@ -1,4 +1,4 @@
-My name is Viacheslav "Slava" Deniskin, and I'm a PhD Candidate in Marketing at the University of Kansas, specializing in Consumer Behavior. Welcome to my website! Here you can find my CV, resume, and other relevant professional documents. You can also explore and learn more about me, my current projects, and my other interests.
+My name is Viacheslav "Slava" Deniskin, PhD. I earned my doctorate in Marketing from the University of Kansas School of Business, specializing in Consumer Behavior. Welcome to my website! Here you can find my CV, resume, and other relevant professional documents. You can also explore and learn more about me, my current projects, and my other interests.
 
 If you have any questions, or just want to start a chat, use the [contact tab](/deniskin04/contact) to reach out.
 
